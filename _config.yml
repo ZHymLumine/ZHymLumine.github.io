@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yiming Zhang"
-description              : "Tokyo Institute of Technology"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Yiming Zhang's homepage"
+repository               : "ZHymLumine/ZHymLumine.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiming Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Yiming Zhang's homepage"
-  location         : "Beijing, China"
+  bio              : "Tokyo Institute of Technology"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "anka753997@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
