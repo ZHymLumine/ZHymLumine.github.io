@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My name is Yiming Zhang (张一鸣 in Chinese), currently a senior undergraduate student at the [Okumura-Funakoshi group](https://lr-www.pi.titech.ac.jp/wp_en/) of [Institute of Innovative Research](https://www.iir.titech.ac.jp/en/) in [Tokyo Institute of Technology (Tokyo Tech)](https://www.titech.ac.jp/english), supervised by [Prof. Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html). 
+
 My researches focus on AI4science, Computational Biology.
 
 # 🔥 News
