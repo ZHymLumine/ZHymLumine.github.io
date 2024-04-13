@@ -37,8 +37,6 @@ My researches focus on AI4science, Computational Biology.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.04 - Now* Outstanding Performance Award Scholarship, Tokyo Tech
 - *2021.10 - 2023.04* Best Performance Award Scholarship, Tokyo Tech
