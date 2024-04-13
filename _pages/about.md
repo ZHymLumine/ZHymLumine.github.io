@@ -25,7 +25,7 @@ My researches focus on AI4science, Computational Biology.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning](https://arxiv.org/pdf/2308.16466.pdf)
@@ -39,16 +39,17 @@ My researches focus on AI4science, Computational Biology.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04 - Now* Outstanding Performance Award Scholarship, Tokyo Tech
+- *2021.10 - 2023.04* Best Performance Award Scholarship, Tokyo Tech
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.04 - Now*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
+- 
+# 🔬 Research Experience 
+- *2023.12 - Now*, Yale University, Research Assistant.
+- *2023.10 - Now*, the University of Tokyo, Research Assistant.
+- *2023.06 - 2023.09*, University of California, Irvine, Research Intern.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2023.10*, Nara Institute of Science and Technology, Nara, Japan.
+Supervised by [SOCIOCOM group](https://sociocom.naist.jp/index/), [Prof. Eiji Aramaki](https://luululu.com/en/)
