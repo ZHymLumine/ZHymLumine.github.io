@@ -22,6 +22,7 @@ My name is Yiming Zhang (张一鸣 in Chinese), currently a senior undergraduate
 My researches focus on AI4science, Computational Biology.
 
 # 🔥 News
+- *2024.01 &nbsp;🎉🎉 One paper about protein language model is submitted to bioRxiv.
 - *2023.10*: &nbsp;🎉🎉 My work Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning was accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024! Thanks for all collaborators! 
 
 # 📝 Publications 
@@ -37,6 +38,17 @@ My researches focus on AI4science, Computational Biology.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/prothyena.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProtHyena: A fast and efficient foundation protein language model at single amino acid resolution](https://www.biorxiv.org/content/biorxiv/early/2024/01/22/2024.01.18.576206.full.pdf)
+
+**Yiming Zhang**, Bian Bian, Manabu Oku
+
+[**Project**](https://github.com/ZHymLumine/ProtHyena) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.04 - Now* Outstanding Performance Award Scholarship, Tokyo Tech
 - *2021.10 - 2023.04* Best Performance Award Scholarship, Tokyo Tech
@@ -45,9 +57,10 @@ My researches focus on AI4science, Computational Biology.
 - *2021.04 - Now*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
   
 # 🔬 Research Experience 
-- *2023.12 - Now*, Yale University, Research Assistant.
+- *2023.12 - Now*, Yale University, Research Assistant, advised by [Dr. Xiangru Tang](https://scholar.google.com.hk/citations?user=gGcRkpYAAAAJ&hl=en).
+- *2023.12 - Now*, Tokyo Institute of Technology, Undergraduate Research, supervised by [Prof. Manabu Oku](http://www.lr.pi.titech.ac.jp/~oku/index-e.html).
 - *2023.10 - Now*, the University of Tokyo, Research Assistant.
-- *2023.06 - 2023.09*, University of California, Irvine, Research Intern.
+- *2023.06 - 2023.09*, University of California, Irvine, Research Intern, supervised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
 
 # 💻 Internships
 - *2023.09 - 2023.10*, Nara Institute of Science and Technology, Nara, Japan.
