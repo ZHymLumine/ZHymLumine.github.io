@@ -25,7 +25,7 @@ My researches focus on AI4science, Computational Biology.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2024</div><img src='images/SAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning](https://arxiv.org/pdf/2308.16466.pdf)
