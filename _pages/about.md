@@ -45,7 +45,7 @@ My researches focus on AI4science, Computational Biology.
 
 # 📖 Educations
 - *2021.04 - Now*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
-- 
+  
 # 🔬 Research Experience 
 - *2023.12 - Now*, Yale University, Research Assistant.
 - *2023.10 - Now*, the University of Tokyo, Research Assistant.
