@@ -19,7 +19,11 @@ redirect_from:
 
 My name is Yiming Zhang (张一鸣 in Chinese), currently a senior undergraduate student at the [Okumura-Funakoshi group](https://lr-www.pi.titech.ac.jp/wp_en/) of [Institute of Innovative Research](https://www.iir.titech.ac.jp/en/) in [Tokyo Institute of Technology (Tokyo Tech)](https://www.titech.ac.jp/english), supervised by [Prof. Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html). 
 
-My researches focus on AI4science, Computational Biology.
+My research interests include:
+- Artificial Intelligence-based Drug Discovery
+- AI4Science, Computational Biology, AI guided Protein / biomolecules Design
+- AI4healthcare, health informatics
+
 
 # 🔥 News
 - *2024.01 &nbsp;🎉🎉 One paper about protein language model is submitted to bioRxiv.
@@ -49,17 +53,20 @@ My researches focus on AI4science, Computational Biology.
 </div>
 </div>
 
+# 📖 Educations
+- *2021.04 - Now*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
+
 # 🎖 Honors and Awards
 - *2023.04 - Now* Outstanding Performance Award Scholarship, Tokyo Tech
 - *2021.10 - 2023.04* Best Performance Award Scholarship, Tokyo Tech
 
-# 📖 Educations
-- *2021.04 - Now*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
+
   
 # 🔬 Research Experience 
 - *2023.12 - Now*, Yale University, Research Assistant, advised by [Dr. Xiangru Tang](https://scholar.google.com.hk/citations?user=gGcRkpYAAAAJ&hl=en).
 - *2023.12 - Now*, Tokyo Institute of Technology, Undergraduate Research, supervised by [Prof. Manabu Oku](http://www.lr.pi.titech.ac.jp/~oku/index-e.html).
 - *2023.10 - Now*, the University of Tokyo, Research Assistant.
+  Works on Deep learning modelling for translation velocity, mRNA design and optimization
 - *2023.06 - 2023.09*, University of California, Irvine, Research Intern, supervised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
 
 # 💻 Internships
