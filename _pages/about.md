@@ -32,6 +32,27 @@ My research interests include:
 - *2023.10*: &nbsp;🎉🎉 My work Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning was accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024! Thanks for all collaborators! 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Square</div><img src='images/gensparc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GenSPARC: Generalized Structure- and Property-Aware Representations of Language Models for Compound-Protein Interaction Prediction](https://www.researchsquare.com/article/rs-6326235/v1)
+
+**Yiming Zhang**, Atsuhiro Tomita, Mizuki Takemoto, Ryuichiro Ishitani
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/nbbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NbBench: Benchmarking Language Models for Comprehensive Nanobody Tasks](https://arxiv.org/abs/2505.02022)
+
+**Yiming Zhang**, Koji Tsuda
+
+[**Project**](https://github.com/ZHymLumine/NbBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iMetaOmics</div><img src='images/prothyena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,15 +75,6 @@ My research interests include:
 </div>
 </div>
 
-# 📖 Educations
-- *2025.04 - 2027.03*, master student in the Department of Computational Biology and Medical Sciences, The University of Tokyo.
-- *2021.04 - 2025.03*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
-
-# 🎖 Honors and Awards
-- *2023.04 - 2024.04* Outstanding Performance Award Scholarship, Tokyo Tech
-- *2021.10 - 2023.04* Best Performance Award Scholarship, Tokyo Tech
-
-  
 # 🔬 Research Experience 
 - *2023.12 - 2024.04*, Yale University, Research Assistant, advised by [Dr. Xiangru Tang](https://scholar.google.com.hk/citations?user=gGcRkpYAAAAJ&hl=en).
 - *2023.12 - 2025.03, Tokyo Institute of Technology, Undergraduate Research, supervised by [Prof. Manabu Oku](http://www.lr.pi.titech.ac.jp/~oku/index-e.html).
@@ -77,3 +89,11 @@ My research interests include:
 - *2024.08 - 2025.03*, Preferred Networks, Tokyo, Japan. Research Engineer@Drug Discovery team
 - *2023.09 - 2023.10*, Nara Institute of Science and Technology, Nara, Japan.
 Supervised by [SOCIOCOM group](https://sociocom.naist.jp/index/), [Prof. Eiji Aramaki](https://luululu.com/en/)
+
+# 📖 Educations
+- *2025.04 - 2027.03*, master student in the Department of Computational Biology and Medical Sciences, The University of Tokyo.
+- *2021.04 - 2025.03*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
+
+# 🎖 Honors and Awards
+- *2023.04 - 2024.04* Outstanding Performance Award Scholarship, Tokyo Tech
+- *2021.10 - 2023.04* Best Performance Award Scholarship, Tokyo Tech
