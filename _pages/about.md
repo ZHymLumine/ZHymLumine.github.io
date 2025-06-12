@@ -83,15 +83,15 @@ My research interests include:
 - *2023.06 - 2023.09*, University of California, Irvine, Research Intern, supervised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
 
 # 💻 Internships
-- *2025.06 - now*, SB Intuitions, Tokyo, Japan. Research Engineer@AI4Science team.
-- *2025.05 - 2025.06*, Ivry Corp, Tokyo, Japan. AI Engineering.
-- *2024.12 - 2025.03*, Huawei Tokyo Research Center, Tokyo, Japan. AI Engineer@Camera AI team.
-- *2024.08 - 2025.03*, Preferred Networks, Tokyo, Japan. Research Engineer@Drug Discovery team
+- *2025.06 - now*, [SB Intuitions](https://www.sbintuitions.co.jp/en/), Tokyo, Japan. Research Engineer@AI4Science team.
+- *2025.05 - 2025.06*, [Ivry Corp](https://ivry.jp/company/), Tokyo, Japan. AI Engineering.
+- *2024.12 - 2025.03*, Huawei Japan Tokyo Research Center, Tokyo, Japan. AI Engineer@Camera AI team.
+- *2024.08 - 2025.03*, [Preferred Networks](https://www.preferred.jp/en/), Tokyo, Japan. Research Engineer@Drug Discovery team
 - *2023.09 - 2023.10*, Nara Institute of Science and Technology, Nara, Japan.
 Supervised by [SOCIOCOM group](https://sociocom.naist.jp/index/), [Prof. Eiji Aramaki](https://luululu.com/en/)
 
 # 📖 Educations
-- *2025.04 - 2027.03*, master student in the Department of Computational Biology and Medical Sciences, The University of Tokyo.
+- *2025.04 - now*, master student in the Department of Computational Biology and Medical Sciences, The University of Tokyo.
 - *2021.04 - 2025.03*, undergraduate student in the Department of Information and Communications Technology, Tokyo Institute of Technology.
 
 # 🎖 Honors and Awards
